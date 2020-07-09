@@ -21,7 +21,7 @@ In dieser Übungsaufgabe planen und implementieren Sie eine einfache Wetter-App.
 
 ## Die Aufgabe
 
-Implementieren Sie auf Basis des Starterpakets eine einfache Android-App, die es NutzerInnen erlaubt, das aktuelle Wetter sowie eine Wettervorschau für beliebige Städte anzuzeigen. Datengrundlage dafür ist die [Open Weather API](https://openweathermap.org/api), die Sie kostenlos nutzen können, und die wir Ihnen in diesem Handout noch genauer vorstellen werden. Ihre App soll im wesentlichen diese Funktionen erfüllen:
+Implementieren Sie auf Basis des Starterpakets eine einfache Android-App, die es NutzerInnen erlaubt, das aktuelle Wetter sowie eine Wettervorschau für beliebige Städte anzuzeigen. Datengrundlage dafür ist die [Open Weather API](https://openweathermap.org/api), die Sie kostenlos nutzen können und die wir Ihnen in diesem Handout noch genauer vorstellen werden. Ihre App soll im wesentlichen diese Funktionen erfüllen:
 
 - Auf dem Startbildschirm bzw. in der Start-Activity können NutzerInnen eine Sammlung von Städten pflegen. Die Städte werden im UI als scrollbare Liste angezeigt, zu jeder Stadt wird mindestens der Name, die aktuelle Temperatur und die aktuelle Wetterbeschreibung angezeigt. NutzerInnen können neue Städte über die Eingabe des Stadtnamens hinzufügen.
 
