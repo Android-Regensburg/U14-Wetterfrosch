@@ -8,6 +8,7 @@ header-includes: |
     \usepackage{german} 
     \usepackage[a4paper,left=2.5cm, right=2.5cm,top=2.5cm, bottom=3cm]{geometry}
     \usepackage{fancyhdr}
+    \usepackage{graphicx}
     \pagestyle{fancy}
     \fancyhf{}
     \rhead{Mobile Apps für Android}
