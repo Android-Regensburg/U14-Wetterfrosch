@@ -1,5 +1,5 @@
 ---
-title: Wetterfrosch-App
+title: U14-Wetterfrosch
 author: Zuletzt bearbeitet von Alexander Bazo
 documentclass: scrartcl
 classoption:
