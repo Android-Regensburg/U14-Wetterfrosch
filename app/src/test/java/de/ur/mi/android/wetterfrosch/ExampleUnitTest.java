@@ -1,4 +1,4 @@
-package de.ur.mi.android.base;
+package de.ur.mi.android.wetterfrosch;
 
 import org.junit.Test;
 
